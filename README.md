@@ -44,21 +44,21 @@
 <p>
 
 ## 📝 Recent Analysis Projects
-### [ Prediction of Causes of Wildfires in Mexico](https://github.com/Valamca/Fires_Mexico_2015-2023)<br>
+### [ Prediction of Causes of Wildfires in Mexico](https://github.com/Valamca/Fires_Mexico_2015-2023)  :fire: <br>
 Data analysis using machine learning models to estimate the causes of fires in Mexico with information from CONAFOR.<br>
 Visualization: Power BI <br>
 Libraries Utilized: Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn.
 
-### [ Clustering of customer groups for supermarkets ](https://github.com/Valamca/Esencia_del_cliente)<br>
+### [ Clustering of customer groups for supermarkets ](https://github.com/Valamca/Esencia_del_cliente) :department_store: <br>
 A K-means model responsible for clustering supermarket customers to enhance retention and customer service. <br>
 Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn
 
-### [ Cyclistic Data Analysis ](https://github.com/Valamca/Cyclistic_trips)<br>
+### [ Cyclistic Data Analysis ](https://github.com/Valamca/Cyclistic_trips)  :bike: <br>
 Data Analysis using R to share trends about cyclists trips to share insights and visualizations <br>
 Visualization: Tableau <br>
 Libraries utilized: RODBC, DescTools, tidyverse
 
-### [ Robo Trading ](https://github.com/Valamca/Robot_Trading)<br>
+### [ Robo Trading ](https://github.com/Valamca/Robot_Trading)  🤖 <br>
 A Python program that allows us to observe Bitcoin trends using APIs, web scraping, and data analysis.  <br>
 Libraries utilized: Pandas, Numpy, Matplotlib, Yfinance, Time, BeautifulSoup, Request
 
@@ -66,15 +66,23 @@ Libraries utilized: Pandas, Numpy, Matplotlib, Yfinance, Time, BeautifulSoup, Re
 
 ## 💻 Recent Programming Projects
 
-### [Foro REST API](https://github.com/Valamca/Foro_Alura_API_REST) <br>
+### [SQL Juice Company Database](https://github.com/Valamca/Empresa_Jugos_SQL) :grapes: <br>
+Procedure for creating a database and implementing certain systems for the automation of operations. <br>
+Technologies: MySql <br>
+
+
+### [Foro REST API](https://github.com/Valamca/Foro_Alura_API_REST) :computer: <br>
 A REST API that allows clients to interact via HTTP requests with Alura's Foro. <br>
 Technologies: Eclipse, MySql, Java, Spring Security, Token JWT
 
-### [Alura Hotel](https://github.com/Valamca/Hotel_Alura_Challenge) <br>
+### [Alura Hotel](https://github.com/Valamca/Hotel_Alura_Challenge) :hotel: <br>
 A JAVA application that allows users to create, modify, and update a hotel reservation, using an account <br>
 with a username and password to enter the Hotel System. <br>
 Technologies: Java, Eclipse, JCalendar, MySql, WindowBuilder
 <br>
+<br>
+#### *You can find more of my work and datasets on my Kaggle repositories.* :blush:
+
 </p>
 
 <br>
