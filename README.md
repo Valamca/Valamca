@@ -2,7 +2,7 @@
 
 <h3> :man: &nbsp;About Me </h3>
 
-- 🔭 I’m currently working on: an NLP sentiment analysis project (Kaggle)
+- 🔭 I’m currently working on: a Natural Language project (Maybe was too much for me.... look endless) :'C 
 - :heart: My favorite language: Python
 - 🌱 I’m currently learning: English and Linear Algebra for Data Science
 - 👯 I’m always looking to collaborate with: Any from any field
